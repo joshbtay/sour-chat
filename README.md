@@ -1,4 +1,5 @@
 # sour-chat
+A work-in-progress website that can be viewed at http://sourdu.de.
 
 ## Project setup
 ```
